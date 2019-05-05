@@ -2,3 +2,5 @@ Ini adalah percobaan branch
 
 halo semuanya
 saya dimaspadma
+
+Latihan git itu susah-susah gampang
